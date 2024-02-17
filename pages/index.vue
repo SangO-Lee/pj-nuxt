@@ -1,3 +1,7 @@
-<template></template>
+<template>
+    <div class="container">index vue</div>
+</template>
+
 <script setup></script>
-<style scoped lang="scss"></style>
+
+<style lang="scss" scoped></style>

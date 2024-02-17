@@ -1,14 +1,5 @@
 <template>
-    <div>
-        nuxt setting is complete
-        <p>test</p>
-    </div>
+    <nuxt-layout>
+        <nuxt-page></nuxt-page>
+    </nuxt-layout>
 </template>
-<style lang="scss">
-div {
-    p {
-        font-size: 20px;
-        margin-top: 20px;
-    }
-}
-</style>
